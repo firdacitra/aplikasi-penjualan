@@ -1,0 +1,17 @@
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\bin\Debug\App_Penjualan.exe.config
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\bin\Debug\App_Penjualan.exe
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\bin\Debug\App_Penjualan.pdb
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.csproj.AssemblyReference.cache
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.Menu_Utama.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.Properties.Resources.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.csproj.GenerateResource.cache
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.exe
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.pdb
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.FormBarang.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.FormPelanggan.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.FormTransaksi.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.DialogBarang.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.DialogPelanggan.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.Tentang_Aplikasi.resources
+D:\Visual Studio\Program Penjualan\App_Penjualan\App_Penjualan\obj\Debug\App_Penjualan.GUI.FormLogin.resources
